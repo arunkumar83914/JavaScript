@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding:20px;
+    background:#222;
+    color:white;
+    font-family:Arial;
+}
+
+h2{
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.box{
+    width:100px;
+    height:100px;
+    display:inline-block;
+    margin:10px;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+.red{ background:#ff4b4b; }
+.orange{ background:#ff9c3b; }
+.yellow{ background:#ffd100; }
+.green{ background:#30d9b4; }
+.blue{ background:#3569ff; }
